@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'PingFang_SC_Semibold';  //重命名字体名
+src: url('../fonts/PingFang_SC_Semibold.ttf') format('truetype');  //引入字体
+font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,48 @@
+
+#inputCompanyName, #inputCompanyEmail, #inputBtn, #inputCompanyEmailType, #inputEmailCode {
+    margin-top: 15px;
+    height: 44px;
+}
+
+#submitNext {
+    margin-top: 15px;
+    height: 44px;
+    border-radius: 5px;
+    background: #2370CB;
+}
+
+#emailBind {
+    margin-top: 15px;
+    height: 44px;
+    border-radius: 5px;
+    background: #2370CB;
+}
+
+.bgcolor {
+    background: #eaeaea;
+}
+
+#resultDiv {
+    margin-top: 15px;
+}
+
+#clearImg {
+    float: right;
+}
+
+#resultContent {
+    font-size: 14px;
+    color: #999999;
+}
+
+#bindTip {
+    color: #db4212;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+#emailTip {
+    color: #db4212;
+    margin-top: 15px;
+    font-size: 14px;
+}

@@ -1,0 +1,152 @@
+/**
+ * 
+ */
+.container {
+    width: 90%;
+    margin: 0 5%;
+    height: auto;
+}
+
+.container p:first-child {
+    text-align: center;
+    color: #6496EF;
+    font-size: 21px;
+    margin-top: 10%;
+}
+
+.container input {
+    width: 89%;
+    margin: 5% auto 0 auto;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #C5C5C5;
+    background: transparent;
+    text-shadow: none;
+    box-shadow: none;
+    text-indent: 1em;
+    outline: 0;
+}
+
+div.container {
+    text-align: center;
+}
+
+input#register-phone {
+    margin-top: 10px;
+}
+
+input#register-code {
+    margin-top: 10px;
+    width: 50%;
+    margin-left: 5%;
+    float: left;
+}
+
+/*button#get-code {
+	width: 34%;
+	height: 40px;
+	color: #FFFFFF;
+	margin-top: 10px;
+	background-color: #6496EF;
+	border-radius: 5px;
+	font-size: 14px;
+	border: transparent;
+}*/
+
+button#get-code {
+    width: 34%;
+    height: 40px;
+    color: #C5C5C5;
+    margin-top: 10px;
+    background-color: #F7F7F7;
+    border-radius: 5px;
+    font-size: 12px;
+    border: 1px solid #C5C5C5;
+}
+
+button#next-step {
+    width: 90%;
+    height: 45px;
+    font-size: 18px;
+    margin-top: 50px;
+    border-radius: 5px;
+    border: 1px solid #C5C5C5;
+    color: #C5C5C5;
+    background: #F7F7F7;
+}
+
+button#submit-info, #submit-emp {
+    width: 90%;
+    height: 40px;
+    margin-top: 70px;
+    border-radius: 5px;
+    border: 1px solid #C5C5C5;
+    color: #FFFFFF;
+    background: #6496EF;
+    font-size: 18px;
+}
+
+.licontainer {
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.licontainer input {
+    width: 90%;
+    line-height: 40px;
+}
+
+.licontainer span {
+    line-height: 40px;
+}
+
+#register-getinfo span {
+    color: #C5C5C5;
+}
+
+section#register-getinfo {
+    display: none;
+}
+
+section#register-getinfo-emp {
+    display: none;
+}
+
+div#resultContent {
+    width: 90%;
+    height: auto;
+    margin: 5% auto;
+    text-align: left;
+}
+
+#resultContent p {
+    height: 40px;
+    border-bottom: 1px dashed darkgray;
+    line-height: 40px;
+    text-indent: 1em;
+    font-size: 16px;
+}
+
+#resultContent p:first-child {
+    background-color: #F7F7F7;
+    text-align: left;
+    color: #000000;
+}
+
+/*toast框*/
+div#toast-Label {
+    width: 50%;
+    height: 40px;
+    position: fixed;
+    margin: 0 25% 0 25%;
+    background-color: rgba(0, 0, 0, 0.5);
+    bottom: 100px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+    color: #FFFFFF;
+    display: none;
+}
+
+
